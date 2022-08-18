@@ -11,6 +11,6 @@ public class CustomerController {
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("Hello!");
+        welcomeText.setText("Hello");
     }
 }
