@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23574e2f-821b-4f74-a833-fbf43904f0f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Customer/Customer.java" afterDir="false" />
+    <list default="true" id="23574e2f-821b-4f74-a833-fbf43904f0f6" name="Changes" comment="Service 1.0&#10;&#10;Declare Customer Information&#10;- Setters &amp; Getters&#10;- Constructors&#10;- toString() method">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/capstoneproject/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/capstoneproject/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/capstoneproject/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/capstoneproject/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/capstoneproject/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Customer/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/capstoneproject/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/capstoneproject/MainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/capstoneproject/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/capstoneproject/hello-view.fxml" afterDir="false" />
     </list>
@@ -44,16 +43,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "app.teamhub.trackedBranches": ""
+    "app.teamhub.trackedBranches": "evrs2i/master",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="com.example.capstoneproject.HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.capstoneproject.HelloApplication" />
+    <configuration name="com.example.capstoneproject.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.capstoneproject.MainClass" />
       <module name="CapstoneProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.capstoneproject.*" />
+          <option name="PATTERN" value="Customer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,7 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.example.capstoneproject.HelloApplication" />
+        <item itemvalue="Application.com.example.capstoneproject.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -75,8 +77,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660849809019</updated>
-      <workItem from="1660849810442" duration="4691000" />
+      <workItem from="1660849810442" duration="5680000" />
     </task>
+    <task id="LOCAL-00001" summary="Service 1.0&#10;&#10;Declare Customer Information&#10;- Setters &amp; Getters&#10;- Constructors&#10;- toString() method">
+      <created>1660854946270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660854946270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Service 1.0&#10;&#10;Declare Customer Information&#10;- Setters &amp; Getters&#10;- Constructors&#10;- toString() method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Service 1.0&#10;&#10;Declare Customer Information&#10;- Setters &amp; Getters&#10;- Constructors&#10;- toString() method" />
   </component>
 </project>

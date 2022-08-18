@@ -13,4 +13,6 @@ module com.example.capstoneproject {
 
     opens com.example.capstoneproject to javafx.fxml;
     exports com.example.capstoneproject;
+    exports Customer;
+    opens Customer to javafx.fxml;
 }
